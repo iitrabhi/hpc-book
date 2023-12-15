@@ -14,7 +14,7 @@ const nextConfig = {
   // reactStrictMode: true,
   // swcMinify: true,
   // trailingSlash: true,
-  assetPrefix : isProduction ? "https://abhigupta.io/hpc-book/docs/" : undefined,
+  assetPrefix : isProduction ? "https://abhigupta.io/hpc-book/" : undefined,
 };
 
 module.exports = {
