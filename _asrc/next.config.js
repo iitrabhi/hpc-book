@@ -11,13 +11,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  reactStrictMode: true,
-  swcMinify: true,
-  trailingSlash: true,
-  // assetPrefix,
+  // reactStrictMode: true,
+  // swcMinify: true,
+  // trailingSlash: true,
   assetPrefix : isProduction ? "https://abhigupta.io/hpc-book" : undefined,
-  // basePath: assetPrefix,
-  // output: "export",
 };
 
 module.exports = {
