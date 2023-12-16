@@ -10,11 +10,8 @@ export function Head() {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta name="apple-mobile-web-app-title" content={title} />
-      <link
-        rel="icon"
-        type="image/x-icon"
-        href={`${assetPrefix}/favicon.ico`}
-      />
+      <link rel="icon" href="${assetPrefix}/favicon.svg" type="image/svg+xml" />
+      <link rel="icon" href="${assetPrefix}/favicon.png" type="image/png" />
     </>
   );
 }
