@@ -2,7 +2,6 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 import { Head } from "./components/Head";
 import { useNextSeoProps } from "./config/useNextSeoProps";
-import { Logo } from "./components/Logo";
 
 const config: DocsThemeConfig = {
   logo: (
@@ -14,11 +13,11 @@ const config: DocsThemeConfig = {
     </svg>
   ),
   project: {
-    link: "https://github.com/mkrtchian/reading-notes",
+    link: "https://github.com/iitrabhi/hpc-book",
   },
-  docsRepositoryBase: "https://github.com/mkrtchian/reading-notes/blob/main",
+  docsRepositoryBase: "https://github.com/iitrabhi/hpc-book/blob/main",
   footer: {
-    text: "Made by Roman Mkrtchian",
+    text: "Made by Abhinav Gupta",
   },
   head: Head,
   feedback: {
