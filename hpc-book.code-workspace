@@ -5,6 +5,20 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.port": 5501
+		"liveServer.settings.port": 5501,
+		"files.exclude": {
+			"node_modules/": true,
+			".obsidian": true,
+			".git": true,
+			".vscode": true,
+			".gitignore": true,
+			".husky": true,
+			"yarn.lock": true,
+			"tsconfig.json": true,
+			"next-env.d.ts": true,
+			"definitions.md": true,
+			"readme.md": true,
+			".next": true,
+		}
 	}
 }
