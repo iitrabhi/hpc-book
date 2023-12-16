@@ -15,15 +15,15 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/iitrabhi/hpc-book",
   },
-  docsRepositoryBase: "https://github.com/iitrabhi/hpc-book/blob/main",
   footer: {
     text: "Made by Abhinav Gupta",
   },
   head: Head,
-  feedback: {
-    content: () => <>Question? Give me feedback →</>,
-    labels: "feedback",
-  },
+  // docsRepositoryBase: "https://github.com/iitrabhi/hpc-book/blob/main",
+  // feedback: {
+  //   content: () => <>Question? Give me feedback →</>,
+  //   labels: "feedback",
+  // },
   useNextSeoProps,
   i18n: [],
 };
