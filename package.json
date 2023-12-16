@@ -4,11 +4,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "export": "rm -rf docs && next build && touch out/.nojekyll && mv out docs",
+    "clean": "rm -rf .husky  && rm -rf node_modules && rm -rf out && rm -rf .next && rm -rf docs",
+
+
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "clean": "rm -rf .husky  && rm -rf node_modules && rm -rf out && rm -rf .next && rm -rf docs",
-    "export": "rm -rf docs && next build && touch out/.nojekyll && mv out docs",
     "lint": "next lint --max-warnings=0",
     "type-check": "tsc",
     "deploy": "gh-pages -d out -t true",
