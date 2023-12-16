@@ -16,8 +16,8 @@ export function Head() {
         href={`${assetPrefix}/favicon.ico`}
       /> */}
 
-      <link rel="icon" href={`${assetPrefix}/favicon.svg`} type="image/svg+xml" />
-      <link rel="icon" href={`${assetPrefix}/favicon.png`} type="image/png" />
+      <link rel="icon" href={`${assetPrefix}/favicon-dark.svg`} type="image/svg+xml" />
+      <link rel="icon" href={`${assetPrefix}/favicon-dark.png`} type="image/png" />
     </>
   );
 }
