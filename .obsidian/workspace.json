@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/another.md",
+                "file": "pages/advanced.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/another.md",
+                "file": "pages/advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/another.md",
+                "file": "pages/advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/another.md"
+                "file": "pages/advanced.md"
               }
             }
           },
@@ -179,23 +179,23 @@
   "lastOpenFiles": [
     "docs/_next/static/chunks/pages/advanced/satori-9f6189d426fc2e85.js",
     "docs/_next/static/chunks/pages/index-495fe1f23e6e2aaa.js",
-    "docs/_next/static/chunks/pages/another-98263118e2d60c26.js",
-    "docs/_next/static/chunks/pages/advanced-0fc16fda0f39b54b.js",
+    "docs/_next/static/chunks/pages/_app-a3f0dee1d78bc15f.js",
+    "docs/_next/static/chunks/pages/another-e25a2ea7fa395731.js",
+    "docs/_next/static/chunks/pages/advanced-5aafc86f604cef33.js",
     "docs/_next/static/chunks/pages/advanced",
     "docs/_next/static/chunks/pages/about-01ece9021c44a480.js",
     "docs/_next/static/chunks/pages/_error-2afa8b7423c17645.js",
-    "docs/_next/static/chunks/pages/_app-a3f0dee1d78bc15f.js",
+    "docs/_next/static/mo0HDfAmzOmdTXo4EL9NH/_ssgManifest.js",
+    "docs/_next/static/mo0HDfAmzOmdTXo4EL9NH/_buildManifest.js",
     "docs/_next/static/media/og.87a47b86.jpeg",
     "docs/_next/static/css/445c4173ffc2bf04.css",
-    "docs/_next/static/chunks/webpack-6c294a0744a99a35.js",
-    "docs/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
     "docs/logo.png",
     "out/logo.png",
     "out/_next/static/media/og.87a47b86.jpeg",
+    "pages/another.md",
     "pages/about.md",
     "pages/advanced.md",
     "pages/index.md",
-    "pages/another.md",
     "attachments/og.jpeg",
     "6_logs/2023-09-04.md",
     "6_logs/2023-09-08.md",
