@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/another.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/another.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/another.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "pages/another.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "62c31d655bdb1b46",
   "lastOpenFiles": [
+    "pages/index.md",
     "docs/_next/static/chunks/pages/advanced/satori-9f6189d426fc2e85.js",
     "docs/_next/static/chunks/pages/index-495fe1f23e6e2aaa.js",
-    "docs/_next/static/chunks/pages/another-901bfca4c828e21e.js",
+    "docs/_next/static/chunks/pages/another-413b8f6838bbadee.js",
     "docs/_next/static/chunks/pages/advanced-9366539c0036219b.js",
     "docs/_next/static/chunks/pages/advanced",
     "docs/_next/static/chunks/pages/about-01ece9021c44a480.js",
@@ -188,10 +189,12 @@
     "docs/_next/static/media/og.87a47b86.jpeg",
     "docs/_next/static/css/445c4173ffc2bf04.css",
     "docs/_next/static/chunks/webpack-6c294a0744a99a35.js",
-    "docs/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
     "docs/logo.png",
     "out/logo.png",
     "out/_next/static/media/og.87a47b86.jpeg",
+    "pages/another.md",
+    "pages/about.md",
+    "pages/advanced.md",
     "attachments/og.jpeg",
     "6_logs/2023-09-04.md",
     "6_logs/2023-09-08.md",
@@ -221,10 +224,6 @@
     "3_our_implementation/1_workshop/5_mesh_convergence/find_sigma_c.md",
     "3_our_implementation/1_workshop/5_find_sigma_c/find_sigma_c.md",
     "3_our_implementation/2_paper_problems/1_calibration/4_find_lc/findlc.md",
-    "3_our_implementation/2_paper_problems/1_calibration/1_static/readme.md",
-    "6_logs/2023-10-13.md",
-    "6_logs/2023-10-09.md",
-    "3_our_implementation/2_paper_problems/1_calibration/3_find_zeta/findzeta.md",
     "4_latex_source/paper structure.canvas"
   ]
 }
