@@ -16,7 +16,7 @@
                 "file": "pages/another.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -177,10 +177,9 @@
   },
   "active": "62c31d655bdb1b46",
   "lastOpenFiles": [
-    "pages/index.md",
     "docs/_next/static/chunks/pages/advanced/satori-9f6189d426fc2e85.js",
     "docs/_next/static/chunks/pages/index-495fe1f23e6e2aaa.js",
-    "docs/_next/static/chunks/pages/another-413b8f6838bbadee.js",
+    "docs/_next/static/chunks/pages/another-a7da0ef18bdd5946.js",
     "docs/_next/static/chunks/pages/advanced-9366539c0036219b.js",
     "docs/_next/static/chunks/pages/advanced",
     "docs/_next/static/chunks/pages/about-01ece9021c44a480.js",
@@ -189,9 +188,11 @@
     "docs/_next/static/media/og.87a47b86.jpeg",
     "docs/_next/static/css/445c4173ffc2bf04.css",
     "docs/_next/static/chunks/webpack-6c294a0744a99a35.js",
+    "docs/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
     "docs/logo.png",
     "out/logo.png",
     "out/_next/static/media/og.87a47b86.jpeg",
+    "pages/index.md",
     "pages/another.md",
     "pages/about.md",
     "pages/advanced.md",
