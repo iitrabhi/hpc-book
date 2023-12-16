@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5f657bd8b0b34a",
+        "id": "04eb748bedde4b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "62c31d655bdb1b46",
+            "id": "5b54a1458dfe1ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "pages/another.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -175,12 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62c31d655bdb1b46",
+  "active": "5b54a1458dfe1ead",
   "lastOpenFiles": [
     "docs/_next/static/chunks/pages/advanced/satori-9f6189d426fc2e85.js",
     "docs/_next/static/chunks/pages/index-495fe1f23e6e2aaa.js",
-    "docs/_next/static/chunks/pages/another-a7da0ef18bdd5946.js",
-    "docs/_next/static/chunks/pages/advanced-9366539c0036219b.js",
+    "docs/_next/static/chunks/pages/another-98263118e2d60c26.js",
+    "docs/_next/static/chunks/pages/advanced-0fc16fda0f39b54b.js",
     "docs/_next/static/chunks/pages/advanced",
     "docs/_next/static/chunks/pages/about-01ece9021c44a480.js",
     "docs/_next/static/chunks/pages/_error-2afa8b7423c17645.js",
@@ -192,10 +192,10 @@
     "docs/logo.png",
     "out/logo.png",
     "out/_next/static/media/og.87a47b86.jpeg",
-    "pages/index.md",
-    "pages/another.md",
     "pages/about.md",
     "pages/advanced.md",
+    "pages/index.md",
+    "pages/another.md",
     "attachments/og.jpeg",
     "6_logs/2023-09-04.md",
     "6_logs/2023-09-08.md",
