@@ -5,7 +5,6 @@ const withNextra = require("nextra")({
 });
 
 const isProduction = process.env.NODE_ENV === "production";
-// const assetPrefix = isProduction ? "https://abhigupta.io/hpc-book" : "";
 
 const nextConfig = {
   images: {
@@ -14,7 +13,7 @@ const nextConfig = {
   // reactStrictMode: true,
   // swcMinify: true,
   // trailingSlash: true,
-  assetPrefix : isProduction ? "https://abhigupta.io/hpc-book/" : undefined,
+  // assetPrefix : isProduction ? "https://abhigupta.io/hpc-book/" : undefined,
 };
 
 module.exports = {
