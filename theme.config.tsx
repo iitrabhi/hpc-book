@@ -29,6 +29,9 @@ const config: DocsThemeConfig = {
   },
   useNextSeoProps,
   i18n: [],
+  toc: {
+    backToTop: true
+  }
 };
 
 export default config;
