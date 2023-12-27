@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "04eb748bedde4b5e",
+        "id": "7367ec052d7a8d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b54a1458dfe1ead",
+            "id": "cc6e049f305b776b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definitions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions.md",
+                "file": "pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions.md",
+                "file": "pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions.md"
+                "file": "pages/about.md"
               }
             }
           },
@@ -177,6 +172,9 @@
   },
   "active": "01f9f9c6e9f233c4",
   "lastOpenFiles": [
+    "pages/advanced.md",
+    "pages/another.md",
+    "definitions.md",
     "docs/_next/static/chunks/pages/advanced/satori-14bd4435454b8a26.js",
     "docs/_next/static/chunks/pages/index-90cdc18c84b87d77.js",
     "docs/_next/static/chunks/pages/another-36bd6e251a5751e2.js",
@@ -187,7 +185,6 @@
     "docs/_next/static/chunks/pages/_app-a3f0dee1d78bc15f.js",
     "docs/_next/static/y-Hlyl__hRCS0CsKBB0Vt/_ssgManifest.js",
     "docs/_next/static/y-Hlyl__hRCS0CsKBB0Vt/_buildManifest.js",
-    "docs/_next/static/css/445c4173ffc2bf04.css",
     "docs/logo.svg",
     "docs/favicon.svg",
     "docs/favicon.png",
@@ -203,7 +200,6 @@
     "node_modules/is-plain-obj/readme.md",
     "node_modules/is-docker/readme.md",
     "node_modules/callsites/readme.md",
-    "pages/advanced.md",
     "node_modules/micromark-extension-math/node_modules/katex/dist/README.md",
     "node_modules/micromark-extension-math/node_modules/@types/katex/README.md",
     "node_modules/zod/README.md",
@@ -222,7 +218,6 @@
     "node_modules/define-data-property/README.md",
     "node_modules/define-data-property/CHANGELOG.md",
     "node_modules/d3-format/README.md",
-    "pages/another.md",
     "plan.canvas",
     "3_our_implementation/2_paper_problems/1_calibration/Untitled.canvas",
     "4_latex_source/paper structure.canvas"
