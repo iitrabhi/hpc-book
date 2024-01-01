@@ -12,4 +12,4 @@
 
 This is the index page for the Advanced folder!
 
-<iframe src="https://abhigupta.io/isogeometric-analysis/lessons/12_mobile_two/index.html" style="overflow: auto; resize: both; aspect-ratio: 16 / 9; width: 100%; "></iframe>
+<iframe src="https://abhigupta.io/isogeometric-analysis/lessons/12_mobile_two/index.html" width="150" height="300" scrolling="no" allowfullscreen style="overflow: auto; resize: both; aspect-ratio: 16 / 9; width: 100%; touch-action: none;"></iframe>
